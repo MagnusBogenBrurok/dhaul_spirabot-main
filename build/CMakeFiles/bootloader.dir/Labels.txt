@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/CMakeFiles/bootloader
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/CMakeFiles/bootloader.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/CMakeFiles/bootloader-complete.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/magnusbogenbrurok/Documents/SpiraBot_main_v2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,10 @@
+{
+    "data": {
+      "start": 0,
+      "init": 0,
+      "stop": 0,
+      "speed": 25,
+      "origo": 11,
+      "micro_step": 1
+    }
+  }

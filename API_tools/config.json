@@ -1,0 +1,29 @@
+{
+    "port": "/dev/ttyUSB0",
+    "baudrate": 115200,
+    "read_error": 0,
+    "default_settings": {
+      "init": 0,
+      "stop": 0,
+      "loop_count": -1,
+      "origo": 1,
+      "abs_pos": 0,
+      "rel_pos": 0,
+      "rel_step": 0,
+      "run_to_slot": 0,
+      "micro_step": 8,
+      "rpm": 0,
+      "amp": 0,
+      "curve_type": 1,
+      "amnesia": 1,
+      "serial_number": "XXXX-XXXX-XXXX",
+      "status_request": 0
+    },
+    "mode": {
+      "SINE_MODE": 1,
+      "CUSTOM_MODE": 0,
+      "DEV_MODE": 2
+    },
+    "states": ["init", "idle", "move_origo", "sine_wave", "error"]
+  }
+  
